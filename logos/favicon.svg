@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700');
+        text { 
+            font-family: 'JetBrains Mono', monospace; 
+            font-weight: bold;
+            transform: scaleY(1.3);
+            transform-origin: center;
+        }
+    </style>
+    <text x="50%" y="54%" font-size="34" fill="#000000" text-anchor="middle" dominant-baseline="middle">[GS]</text>
+</svg>
