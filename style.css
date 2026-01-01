@@ -1,0 +1,17 @@
+.mouse-gradient {
+    background: radial-gradient(600px at var(--x) var(--y), rgba(29, 78, 216, 0.15), transparent 80%);
+}
+
+body {
+    background-color: #030712;
+    color: #94a3b8;
+}
+
+.nav-link.active {
+    color: #e2e8f0;
+}
+
+.nav-link.active .nav-line {
+    width: 3rem;
+    background-color: #e2e8f0;
+}
